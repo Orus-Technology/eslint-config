@@ -1,5 +1,11 @@
 # @orustecnologia/eslint-config
 
+## 1.1.2
+
+### Patch Changes
+
+- fix home page address
+
 ## 1.1.1
 
 ### Patch Changes
