@@ -1,5 +1,11 @@
 # @orustecnologia/eslint-config
 
+## 1.1.1
+
+### Patch Changes
+
+- Add documentation in readme file
+
 ## 1.1.0
 
 ### Minor Changes
