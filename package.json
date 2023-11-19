@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "@orustecnologia/eslint-config",
   "version": "1.0.0",
   "description": "Eslint Configuration used by Orus Technology",
   "main": "index.js",
